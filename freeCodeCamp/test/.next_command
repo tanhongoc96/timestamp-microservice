@@ -101,3 +101,5 @@ rm lato.front
 ls --color=auto -l
 touch menlo.font
 ls --color=auto -l
+__vsc_prompt_cmd_original
+touch CodeAlly.svg
