@@ -95,3 +95,8 @@ ls --color=auto -l
 touch roboto.font
 touch lato.front
 touch lato.font
+__vsc_prompt_cmd_original
+ls --color=auto -l
+rm lato.front
+ls --color=auto -l
+touch menlo.font
