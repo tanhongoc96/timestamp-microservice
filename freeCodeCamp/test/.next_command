@@ -59,3 +59,4 @@ cd node_modules/
 cd has
 ls --color=auto
 more LICENSE-MIT
+clear
