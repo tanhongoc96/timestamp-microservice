@@ -283,3 +283,4 @@ ls --color=auto
 cd ..
 cp -r website-boilerplate tom-website
 cp -r website-boilerplate toms-website
+ls --color=auto
