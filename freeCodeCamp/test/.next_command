@@ -231,3 +231,4 @@ mkdir ./client/asset/icons
 find
 mkdir ./client/assets/icons
 mv CodeAlly.svg ./client/assets/icons
+find
