@@ -90,3 +90,5 @@ cd .
 touch background.jpg
 touch header.png
 touch footer.jpeg
+__vsc_prompt_cmd_original
+ls --color=auto -l
