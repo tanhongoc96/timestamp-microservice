@@ -271,3 +271,4 @@ echo README.md
 echo readme
 more README.md
 cd ..
+ls --color=auto
