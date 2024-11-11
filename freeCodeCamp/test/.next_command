@@ -100,3 +100,4 @@ ls --color=auto -l
 rm lato.front
 ls --color=auto -l
 touch menlo.font
+ls --color=auto -l
