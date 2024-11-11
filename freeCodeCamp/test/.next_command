@@ -107,3 +107,5 @@ touch CodeRoad.svg
 __vsc_prompt_cmd_original
 touch feeCodeCamp.svg
 touch freeCodeCamp.svg
+rm feeCodeCamp.svg
+ls --color=auto
