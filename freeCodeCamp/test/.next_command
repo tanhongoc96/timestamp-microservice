@@ -148,3 +148,4 @@ cd website/
 ls --color=auto
 ls --color=auto -l
 rm background.jpg
+ls --color=auto
