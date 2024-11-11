@@ -276,3 +276,10 @@ mv website website-boilerplate
 ls --color=auto
 __vsc_prompt_cmd_original
 cp --help
+cp -r website-boilerplate ./tom-website
+ls --color=auto
+cd tom-website/
+ls --color=auto
+cd ..
+cp -r website-boilerplate tom-website
+cp -r website-boilerplate toms-website
