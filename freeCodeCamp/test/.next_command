@@ -270,3 +270,4 @@ echo README.md
 echo README.md
 echo readme
 more README.md
+cd ..
