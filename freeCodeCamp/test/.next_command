@@ -110,3 +110,6 @@ touch freeCodeCamp.svg
 rm feeCodeCamp.svg
 ls --color=auto
 mkdir images
+__vsc_prompt_cmd_original
+le
+ls --color=auto
