@@ -179,3 +179,4 @@ mkdir client/src
 mv index.html client/src/
 fidn
 find
+mv index.js client/src/
