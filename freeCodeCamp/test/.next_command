@@ -265,3 +265,8 @@ echo for the freeCodeCamp bash leesons >> README.md
 echo for the freeCodeCamp bash leesons >> readme
 echo for the freeCodeCamp bash lessons >> readme
 echo for the freeCodeCamp bash lessons >> README.md
+ecgi README.md
+echo README.md
+echo README.md
+echo readme
+more README.md
