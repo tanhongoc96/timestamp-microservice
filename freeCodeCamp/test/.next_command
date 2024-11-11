@@ -109,3 +109,4 @@ touch feeCodeCamp.svg
 touch freeCodeCamp.svg
 rm feeCodeCamp.svg
 ls --color=auto
+mkdir images
