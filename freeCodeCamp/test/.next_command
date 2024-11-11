@@ -1,0 +1,8 @@
+cd ls
+cd proc/
+cd ..
+ls --color=auto
+cd workspace/
+cd project/
+ls --color=auto
+cd freeCodeCamp/
